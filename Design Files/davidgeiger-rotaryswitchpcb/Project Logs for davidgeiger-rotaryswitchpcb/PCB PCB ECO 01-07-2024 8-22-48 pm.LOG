@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=SW? NewDesignator=SW1
+Change Net Name : Old Net Name=NetJ?_1 New Net Name=NetJ2_1
+Added Member To Class: ClassName=Schematic Member=Component J1 X6511WV-01H-C60D30
+Added Member To Class: ClassName=Schematic Member=Component J2 X6511WV-01H-C60D30
+Added Member To Class: ClassName=Schematic Member=Component J3 X6511WV-01H-C60D30
+Added Member To Class: ClassName=Schematic Member=Component R1 1K
+Added Member To Class: ClassName=Schematic Member=Component R2 1K
+Added Member To Class: ClassName=Schematic Member=Component R3 1K
+Added Member To Class: ClassName=Schematic Member=Component R4 1K
+Added Member To Class: ClassName=Schematic Member=Component R5 1K
+Added Member To Class: ClassName=Schematic Member=Component SW1 56DP36-01-1-AJS

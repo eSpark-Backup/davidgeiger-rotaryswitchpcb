@@ -1,0 +1,22 @@
+Added Component: Designator=SW?(56DP36-01-1-AJS)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/2887/rotary-56-2887598.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/2887/rotary-56-2887598.pdf?src-supplier=Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Rotary Switches"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Grayhill"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "56DP36-01-1-AJS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=24.84, 5=21.334, 10=19.997, 25=18.3256, 50=17.156, 100=16.0977, 250=14.76088, 500=14.4824 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "56DP36-01-1-AJS-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+4V Pin=SW?-1
+Added Pin To Net: NetName=+3V Pin=SW?-2
+Added Pin To Net: NetName=+2V Pin=SW?-3
+Added Pin To Net: NetName=+1V Pin=SW?-4
+Added Pin To Net: NetName=NetJ?_1 Pin=SW?-11
+Added Member To Class: ClassName=Schematic Member=Component J? X6511WV-01H-C60D30
+Added Member To Class: ClassName=Schematic Member=Component J? X6511WV-01H-C60D30
+Added Member To Class: ClassName=Schematic Member=Component R? 1K
+Added Member To Class: ClassName=Schematic Member=Component R? 1K
+Added Member To Class: ClassName=Schematic Member=Component R? 1K
+Added Member To Class: ClassName=Schematic Member=Component R? 1K
+Added Member To Class: ClassName=Schematic Member=Component SW? 56DP36-01-1-AJS
