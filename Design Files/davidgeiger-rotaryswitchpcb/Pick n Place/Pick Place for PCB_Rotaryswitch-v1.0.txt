@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+C:\Users\LiberDB\Documents\GitHub\davidgeiger-rotaryswitchpcb\Design Files\davidgeiger-rotaryswitchpcb\Project Outputs for davidgeiger-rotaryswitch-v1.0\Pick Place for PCB_Rotaryswitch-v1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/07/24
+Time:       19:08
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation Ref-X(mm) Ref-Y(mm) Pad-X(mm) Pad-Y(mm) 
+J1         BottomLayer 1,6510mm     4,0640mm     180      1,6510mm  4,0640mm  1,6510mm  4,0640mm  
+J2         BottomLayer -1,6510mm    4,0640mm     180      -1,6510mm 4,0640mm  -1,6510mm 4,0640mm  
+J3         BottomLayer -4,1910mm    0,7620mm     180      -4,1910mm 0,7620mm  -4,1910mm 0,7620mm  
+R1         BottomLayer 4,1089mm     0,8890mm     90       4,1089mm  0,8890mm  4,1089mm  0,1270mm  
+R2         BottomLayer 2,5400mm     -1,2700mm    90       2,5400mm  -1,2700mm 2,5400mm  -2,0320mm 
+R3         BottomLayer 0,7000mm     -2,1590mm    90       0,7000mm  -2,1590mm 0,7000mm  -2,9210mm 
+R4         BottomLayer -0,6421mm    -2,1590mm    270      -0,6421mm -2,1590mm -0,6421mm -1,3970mm 
+R5         BottomLayer -3,3020mm    -2,0320mm    0        -3,3020mm -2,0320mm -4,0640mm -2,0320mm 
+SW1        TopLayer    0,7848mm     -2,1600mm    0        0,0000mm  0,0000mm  4,1089mm  -1,3349mm 
